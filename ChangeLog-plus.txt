@@ -34,6 +34,5 @@
 <li> Fixed Return to Default wallpaper when use mod 1.2.0</li>
 <li> Fixed GB Widget in some devices</li>
 <li> Other Fixes</li>
-
-","url":"www.abnhmod.blogspot.com"
+","url":"www.akmods.co/AKWatsApp".html
 }
